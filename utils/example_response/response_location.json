@@ -1,0 +1,22 @@
+{
+    "events": [
+        {
+            "type": "message",
+            "replyToken": "31e5d674e35743d9b43e877cc72c4685",
+            "source": {
+                "userId": "Ua5877343856771c0a13c076177a6e319",
+                "type": "user"
+            },
+            "timestamp": 1607754326299,
+            "mode": "active",
+            "message": {
+                "type": "location",
+                "id": "13189011255442",
+                "address": "56 Chalerm Maha Nakhon Expressway Frontage Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+                "latitude": 13.724248,
+                "longitude": 100.552641
+            }
+        }
+    ],
+    "destination": "Uf74ae2795828a3862d7b6756500e45a1"
+}

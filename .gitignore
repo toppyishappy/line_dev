@@ -1,0 +1,6 @@
+*.pyc
+
+/caches
+*.sqlite3
+*.venv
+configs.py
